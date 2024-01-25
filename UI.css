@@ -1,0 +1,11 @@
+/* Basic styles for the text generation tool */
+#youtube-title-generator {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    font-family: 'Montserrat', sans-serif; /* Changed font to Montserrat */
+    text-align: center;
+}
+
+/* Add the rest of the CSS styles here */
+/* ... */
